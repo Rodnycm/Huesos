@@ -1,0 +1,9 @@
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\DAL.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\DAL.pdb
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\EntitiesLayer.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\TIL.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\EntitiesLayer.pdb
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\bin\Debug\TIL.pdb
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\obj\Debug\DAL.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,4 @@
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

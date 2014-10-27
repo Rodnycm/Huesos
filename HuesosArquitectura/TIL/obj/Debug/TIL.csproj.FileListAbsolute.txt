@@ -1,0 +1,5 @@
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\TIL\bin\Debug\TIL.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\TIL\bin\Debug\TIL.pdb
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\TIL\obj\Debug\TIL.csprojResolveAssemblyReference.cache
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\TIL\obj\Debug\TIL.dll
+C:\Users\Pabs\Documents\Visual Studio 2013\Projects\HuesosArquitectura\TIL\obj\Debug\TIL.pdb
